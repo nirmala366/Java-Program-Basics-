@@ -18,6 +18,3 @@ rev = rev*10+r;
 no=no/10;
 }
 System.out.println("Reverse : " +rev);
-
-Input: 15786
-Output: 68751
